@@ -1,5 +1,7 @@
 README
 
+Credit Card Simulator accounting for purchases and payments over time.
+
 Please run either the Driver's main method or the Test's main method.
 
 The Driver will run custom runs of the application
