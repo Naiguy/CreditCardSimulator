@@ -1,8 +1,0 @@
-README
-
-Credit Card Simulator accounting for purchases and payments over time. 
-It will compound interest on generated credit card objects in periods of 30 days.
-
-Run either the Driver's main or the Test's main.
-Driver will run custom simulations.
-
