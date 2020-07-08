@@ -5,7 +5,3 @@ Accounts purchases, payments, and interest over days. App begins with today's da
 The application compounds interests over 30 day periods simulating typical real credit cards.
 
 User can set credit limit and APR for simulation.
-
-Planned Features:
-* Transaction reports for certain time periods
-* Payment plan generation
